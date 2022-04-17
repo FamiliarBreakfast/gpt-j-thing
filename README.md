@@ -201,3 +201,5 @@ Feel free to open a github issue or reach out over email (in profile).
 - [x] test and validate generation
 - [x] shard activations instead of replicating for memory efficiency (in v2)
 - [x] support ZeRO style sharding (in v2)
+# gpt-j-thing
+# gpt-j-thing
